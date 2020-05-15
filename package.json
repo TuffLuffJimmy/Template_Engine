@@ -1,0 +1,24 @@
+{
+  "name": "Template_Engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuffLuffJimmy/Template_Engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuffLuffJimmy/Template_Engine/issues"
+  },
+  "homepage": "https://github.com/TuffLuffJimmy/Template_Engine#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jest": "^26.0.1"
+  }
+}
